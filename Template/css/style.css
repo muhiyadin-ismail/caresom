@@ -482,6 +482,10 @@ textarea {
 		max-height: 500px;
 	}
 
+	.main-navbar.main-navbar-collapsedd {
+		max-height: 0px;
+	}
+
 	/* Mobile Dropdown */
 	.has-dropdown {
 		position: relative;
