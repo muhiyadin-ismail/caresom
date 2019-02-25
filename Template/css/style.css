@@ -697,7 +697,7 @@ textarea {
     position: absolute;
     left: 0px;
     right: 0px;
-    top: 50%;
+    top: 60%;
     -webkit-transform: translateY(-50%);
         -ms-transform: translateY(-50%);
             transform: translateY(-50%);
